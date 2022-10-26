@@ -5,7 +5,7 @@
 
 ## Preview
 
-![Form validation](https://i.ibb.co/0X04CWW/Screenshot-104.png)
+![Random color generator](./images/preview.png)
 
 
  
